@@ -1,0 +1,10 @@
+system
+install
+image
+admin
+config.php
+php.ini
+robots.txt
+.htaccess
+catalog/language/en-gb
+catalog/view/theme/default
